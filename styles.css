@@ -4,7 +4,7 @@ body {
   font-family: arial, cursive, sans-serif;
 }
 
-/*Header and Nav*/
+/*Header */
 
 .title {
   display: inline-block;
@@ -15,12 +15,14 @@ body {
   color: white;
 
 }
-
+/*navigation*/
 .nav ul {
 
   list-style-type: none;
   text-align: center;
   margin: 0px;
+
+
 }
 
 .nav li {
@@ -43,6 +45,7 @@ body {
   padding: 10px 10px;
   font-size: 24px;
   color: orange
+
 }
 
 .sixphoto b {
@@ -50,7 +53,9 @@ body {
   text-decoration-color: red;
 }
 
-/*Photos*/
+
+
+/*images*/
 
 .pic {
   display: inline-block;
@@ -71,8 +76,11 @@ body {
 
 .copyright {
   background-color: black;
-  margin: 15px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
+
 }
+
+
 
 .copyright p {
   text-align: center;
