@@ -1,5 +1,6 @@
 body {
   font-family: arial, cursive, sans-serif;
+
 }
 
 /*header */
@@ -50,16 +51,39 @@ body {
 }
 
 
-.copyright {
-  background-color: black;
-  margin: 15px 0px 0px 0px;
+/*images*/
+
+.pic {
+  display: inline-block;
+  width: 33%;
+  margin-bottom: -3px;
+  margin-top: 5px;
 }
 
-.copyright p {
+.pic img {
+
+    width: 100%;
+}
+
+.picedit {
+  text-align: center;
+  background-color: lime;
+  margin: 0px 0px 5px 0px;
+}
+
+
+.copyright {
+  background-color: black;
+  margin: 20px 0px 0px 0px;
+
+}
+
+.copyright p  {
   text-align: center;
   color: white;
   margin: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 10px;
+
 }
