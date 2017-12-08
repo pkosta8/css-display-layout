@@ -12,6 +12,43 @@ body {
   background-color: black;
   color: white;
 
+/*navigation */
+
+
+.nav ul {
+
+  list-style-type: none;
+  text-align: center;
+  margin: 0px;
+}
+
+.nav li {
+
+  background-color: orange;
+  display: inline-block;
+  padding: 10px;
+  margin: 1px 0px 1px 0px;
+
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.sixphoto h2{
+  background-color: purple;
+  margin: 5px 0px 5px 0px;
+  padding: 10px 10px;
+  font-size: 24px;
+  color: orange
+}
+
+.sixphoto b {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
 
 .copyright {
   background-color: black;
