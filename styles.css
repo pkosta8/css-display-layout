@@ -1,1 +1,28 @@
+body {
+  font-family: arial, cursive, sans-serif;
+}
 
+/*header */
+
+.title {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+
+.copyright {
+  background-color: black;
+  margin: 15px 0px 0px 0px;
+}
+
+.copyright p {
+  text-align: center;
+  color: white;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 10px;
+}
